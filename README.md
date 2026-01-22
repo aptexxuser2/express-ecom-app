@@ -1,12 +1,21 @@
 ###
-Run these commands AT THE project's ROOT directry before running the project:
+Run these commands AT THE project's ROOT directry before running the project:  
+
+
 npm i express:          (important for every express porject)
+
 npm i mongoose:         (for db connection and crud)
+
 npm i bcrypt:           (for password hashing and matching)
+
 npm i ejs:              (view  engine)
+
 npm i nodemailer:       (for sending emails to clients)
+
 npm i jsonwebtoken:     (for making tokens and cookies)
+
 npm i cookie-parser:    (for validating cookies and using the data stored inside cookies)
+
 #Obove packages are very important
 
 npm i nodemon:          (autoupdates your app on the brower when you edit something in the code while the app is running)
