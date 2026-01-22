@@ -1,7 +1,7 @@
 ###
 Run these commands AT THE project's ROOT directry before running the project:  
 
-
+k
 npm i express:          (important for every express porject)
 
 npm i mongoose:         (for db connection and crud)
